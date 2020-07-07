@@ -1,2 +1,6 @@
 # Ignore the checkpoint files
 *checkpoint*
+
+
+# Ignore also the image files
+*.svg
