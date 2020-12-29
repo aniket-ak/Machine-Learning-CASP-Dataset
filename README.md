@@ -22,11 +22,11 @@ So far, we have walked through the following steps:
  
 Now we need to think about which model to choose between all the ones we analysed. Let us start with comparing the accuracy of each model to begin with:
 
-|Model |Mean RMSE score|
-|------|:---------:|
-|Linear Model| 0.3|
-|Random Forest Regressor | 0.3|
-|Artificial Neural Network (ANN) | 0.3|
+|Model |Mean RMSE score|Wall Times|
+|------|:---------:|-----------:|
+|Linear Model| 5.1| 8 [ms]
+|Random Forest Regressor | 3.8| 19 [s]
+|Artificial Neural Network (ANN) | 4.2| 29 [s]
 
 At this point, we can conclude the following:
 * The Linear Regression model is very fast to compute but suffers from low accuracy
@@ -35,5 +35,5 @@ At this point, we can conclude the following:
  * Speed of prediction **vs** Accuracy
  * Computational resources available at prediction stage **vs** model complexity
  * Model updation considerations
- * Explainability
-* We need to adapt the decision based on more information of the deployment platform
+ * Explainability of Random Forest Model **vs** black-box ANN model
+* We need to adapt the decision based on more information about the deployment platform
