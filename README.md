@@ -23,7 +23,7 @@ The workflow followed here is adapted from the book [Hands-On Machine Learning w
   </td>
 </table>
 
-So far, we have walked through the following steps:
+Steps followed in this work:
 * Data Preprocessing:
  * Data visualization - Correlations plots, Bar charts etc.
  * Train test split - Stratified Sampling
@@ -35,7 +35,7 @@ So far, we have walked through the following steps:
  * Artificial Neural Networks
  * GridSearch for better hyperparameters selection
  
-Now we need to think about which model to choose between all the ones we analysed. Let us start with comparing the accuracy of each model to begin with:
+Comparison of accuracy of the models that were fit:
 
 |Model |Mean RMSE score|Wall Times|
 |------|:---------:|-----------:|
