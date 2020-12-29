@@ -14,7 +14,7 @@ The workflow followed here is adapted from the book [Hands-On Machine Learning w
 1. **Data preprocessing** *- Explore the dataset and prepare it before regression*
 2. **Model selection, training and fine tuning** *- Try with various models, compare their performance and fine tune them*
 
-<table align="left">
+<table>
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/aniket-cfd/Machine-Learning-CASP-Dataset/blob/master/Machine%20Learning%20for%20the%20prediction%20of%20Protein%20Structure.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
   </td>
@@ -22,6 +22,7 @@ The workflow followed here is adapted from the book [Hands-On Machine Learning w
     <a target="_blank" href="https://nbviewer.jupyter.org/github/aniket-cfd/Machine-Learning-CASP-Dataset/blob/master/Machine%20Learning%20for%20the%20prediction%20of%20Protein%20Structure.ipynb"><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" width=100 height = 100/>Open with nbviewer</a>
   </td>
 </table>
+
 
 Steps followed in this work:
 * Data Preprocessing:
