@@ -48,8 +48,8 @@ At this point, we can conclude the following:
 * The Linear Regression model is very fast to compute but suffers from low accuracy
 * Random Forest Regressor and Artifical Neural Network (ANN) both perform better than Linear Regression model and one of these should be chosen as a suitable model
 * The specific model to be chosen for this is a tradeoff between:
- * Speed of prediction **vs** Accuracy
- * Computational resources available at prediction stage **vs** model complexity
- * Model updation considerations
- * Explainability of Random Forest Model **vs** black-box ANN model
+     * Speed of prediction **vs** Accuracy
+     * Computational resources available at prediction stage **vs** model complexity
+     * Model updation considerations
+     * Explainability of Random Forest Model **vs** black-box ANN model
 * We need to adapt the decision based on more information about the deployment platform
