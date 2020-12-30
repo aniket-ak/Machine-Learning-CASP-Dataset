@@ -26,15 +26,15 @@ The workflow followed here is adapted from the book [Hands-On Machine Learning w
 
 Steps followed in this work:
 * Data Preprocessing:
- * Data visualization - Correlations plots, Bar charts etc.
- * Train test split - Stratified Sampling
- * Scaling - Standard scaling
- * Dimensionality Reduction - PCA with 99% explained variance 
+    * Data visualization - Correlations plots, Bar charts etc.
+    * Train test split - Stratified Sampling
+    * Scaling - Standard scaling
+    * Dimensionality Reduction - PCA with 99% explained variance 
 * Model Selection:
- * Linear Model 
- * Random Forest Regressor
- * Artificial Neural Networks
- * GridSearch for better hyperparameters selection
+    * Linear Model 
+    * Random Forest Regressor
+    * Artificial Neural Networks
+    * GridSearch for better hyperparameters selection
  
 Comparison of accuracy of the models that were fit:
 
