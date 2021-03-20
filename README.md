@@ -1,14 +1,21 @@
+## Overview
 **Machine Learning for prediction of the RMSD (Root Mean Square Deviation) of a decoy set using Physicochemical Properties of Protein Tertiary Structure Data Set**
 
 The workflow followed here is adapted from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://g.co/kgs/bvvihi) by **Aurélien Geron**.
+
+## Project details
 
 **Scope of this work** : To layout the Machine Learning workflow from start to end. 
 
 **Target Audience** : This piece of work is intended for someone with minimal knowledge in machine learning practices. This is not a tutorial for an absolute beginner.
 
+## Dependencies
+
 **Requirements** : ScikitLearn, Numpy, Matplotlib and Pandas (see attached `requirements.txt` file for the complete list)
 
 *The dataset is downloaded from this link [Physicochemical Properties of Protein Tertiary Structure Data Set](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure).* 
+
+## Content Organization
 
 *This notebook is divided into two sections:*
 1. **Data preprocessing** *- Explore the dataset and prepare it before regression*
